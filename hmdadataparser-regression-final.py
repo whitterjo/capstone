@@ -9,7 +9,7 @@ from sklearn import metrics
 from sklearn.metrics import f1_score, mean_squared_error, r2_score
 import xgboost as xgb
 
-subscription_id = '1ad0fa3f-7440-4513-bf5a-992b677c6f92'
+# subscription_id = ## redacted##
 resource_group = 'rg-Capstone'
 workspace_name = 'stokerwj-capstone-ml'
 
